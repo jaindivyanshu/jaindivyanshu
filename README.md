@@ -22,7 +22,7 @@
 | Repo | What it is | Why it matters |
 |---|---|---|
 | [**ai-leadership-lab**](https://github.com/jaindivyanshu/ai-leadership-lab) | Monthly hands-on experiments on emerging enterprise AI tech | Evidence, not opinion — every post I write is backed by something I built |
-| [**ai-leadership-lab / agent-readiness-scorecard**](https://github.com/jaindivyanshu/ai-leadership-lab/tree/main/experiments/01-agent-readiness-scorecard) | Scores an agentic AI use case on value, risk and readiness before you fund it | Most agent projects fail on unclear value or weak controls — catch that at intake |
+| [**Agent Readiness Scorecard**](https://jaindivyanshu.github.io/ai-leadership-lab/) ([code](https://github.com/jaindivyanshu/ai-leadership-lab/tree/main/experiments/01-agent-readiness-scorecard)) | Browser tool: score an agentic AI use case on value, readiness and risk before you fund it | Most agent projects fail on unclear value or weak controls. Catch that at intake. |
 | [**FindMyFashion**](https://github.com/jaindivyanshu/FindMyFashion) | Multimodal product search: find items by text *or* photo using CLIP embeddings | The pattern behind visual search and "shop the look" in modern retail |
 | [**Youtube-Summaries-and-Actions-Plans**](https://github.com/jaindivyanshu/Youtube-Summaries-and-Actions-Plans) | Turns long videos into summaries, action items and plans (Next.js + Genkit) | Chained LLM flows — a small, real example of workflow decomposition |
 
